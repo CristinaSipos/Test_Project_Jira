@@ -36,7 +36,7 @@ The plan identifies the items to be tested, the features to be tested, the types
     <li>Performance Module</li>
   </ul>
 </li>
-</ul>
+
 <li>Tests not in scope:</li>
   <ul>
     <li>Non-functional testing like stress, and performance is beyond the scope of this project</li>
