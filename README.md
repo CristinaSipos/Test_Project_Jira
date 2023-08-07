@@ -42,7 +42,7 @@ The plan identifies the items to be tested, the features to be tested, the types
     <li>No QA support for mobile application developed. Only web application will be tested</li>
     <li>Automation testing is beyond scope</li>
 </ul>
-</li>
+
   
 <B>1.1.5 Risks detected:</B>
 <ul>
@@ -51,7 +51,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 </ul>
 
 <B>1.1.6 Evaluating entry criteria</B>
-<br>
+
 
 <h2><B>1.2 Test Monitoring and Control</B></h2>
 
