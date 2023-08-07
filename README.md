@@ -1,5 +1,5 @@
 # Test_Project_Jira
-<b><h1>Functional specifications</h1><b>
+<b><h2>Functional specifications</h2><b>
 <h2><B>1.1 Test Planing</B></h2>
 
 <p>The Test Plan is designed to describe all details of testing from the OrangeHRM application.
