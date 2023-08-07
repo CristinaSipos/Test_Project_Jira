@@ -36,7 +36,7 @@ The plan identifies the items to be tested, the features to be tested, the types
     <li>Performance Module</li>
   </ul>
 </li>
-<li>Tests not in scope:
+<li>Tests not in scope:</li>
   <ul>
     <li>Non-functional testing like stress, and performance is beyond the scope of this project</li>
     <li>No QA support for mobile application developed. Only web application will be tested</li>
