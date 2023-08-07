@@ -50,7 +50,7 @@ I also use our expertise in creating test cases by applying the below test techn
  <li>Database of employees</li>
  <li>Jira, Zephyr access</li>
  </ul></p>
-
+<p>
  <b><h2>1.6 Test Execution</h2></b>
  <ul>
  <li>Test cases are executed on the created test Cycle summary:</li>
@@ -62,7 +62,6 @@ I also use our expertise in creating test cases by applying the below test techn
   <li>The traceability matrix was generated and can be found here:</li>
   <li>Test execution chart was generated, the final report shows.... </li>
 </ul>
-
 
 </p>
 [Bug-word. docx](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12281960/Bug-word.docx)
