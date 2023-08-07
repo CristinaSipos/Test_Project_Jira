@@ -51,6 +51,17 @@ I also use our expertise in creating test cases by applying the below test techn
  <li>Jira, Zephyr access</li>
  </ul></p>
 
+ <b><h2>1.6 Test Execution</h2></b>
+ <ul>
+ <li>Test cases are executed on the created test Cycle summary:</li>
+ <li>Bugs have been created based on the failed tests. The complete bug reports can be found here:</li>
+<ul>
+<b><h2>1.7 Test Completion</h2></b>b
+<ul>
+  <li>Exit criteria were evaluated and passed</li>
+  <li>The traceability matrix was generated and can be found here:</li>
+  <li>Test execution chart was generated, the final report shows.... </li>
+</ul>
 
 
 </p>
