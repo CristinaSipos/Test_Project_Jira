@@ -7,7 +7,22 @@ The plan identifies the items to be tested, the features to be tested, the types
   
 <B>1.1.1 Roles assigned to the project and persons allocated</B><br>
 <B>1.1.2 Entry criteria defined</B><br>
+<ul>
+  <li>Complete or partially testable code is available</li>
+  <li>Requirements are defined and approved</li>
+  <li>Deadlines are established</li>
+  <li>Roles and responsibilities are assigned</li>
+</ul>
 <B>1.1.3 Exit criteria defined</B><br>
+<ul>
+  <li>Deadlines meet or budget depleted</li>
+  <li>Execution and updating of all test cases</li>
+  <li>Desired and sufficient coverage of the requirements and functionalities under the test</li>
+  <li>All the identified defects are corrected and closed</li>
+  <li>No high priority or severity or critical bug has been left out</li>
+  <li>98% of test cases must be executed and passed</li>
+  <li>98% of Medium severity defects have been closed</li>
+</ul>
 <B>1.1.4 Test scope:</B><br>
 <ul>
 <li>Tests in scope:</li>
