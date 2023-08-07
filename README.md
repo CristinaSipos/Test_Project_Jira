@@ -55,15 +55,14 @@ I also use our expertise in creating test cases by applying the below test techn
  <ul>
  <li>Test cases are executed on the created test Cycle summary:</li>
  <li>Bugs have been created based on the failed tests. The complete bug reports can be found here:</li>
-<ul>
-  
+<ul></p>
+<p>  
 <b><h2>1.7 Test Completion</h2></b>
 <ul>
   <li>Exit criteria were evaluated and passed</li>
   <li>The traceability matrix was generated and can be found here:</li>
   <li>Test execution chart was generated, the final report shows.... </li>
 </ul>
-
 </p>
 [Bug-word. docx](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12281960/Bug-word.docx)
 [Test plan](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12281974/Test.plan.docx.pdf)
