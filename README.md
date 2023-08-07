@@ -94,5 +94,4 @@ I also use our expertise in creating test cases by applying the below test techn
 <li>Test execution chart was generated, the final report shows.... </li>
 </ul>
 </p>
-[Bug-word. docx](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12281960/Bug-word.docx)
-[Test plan](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12281974/Test.plan.docx.pdf)
+
