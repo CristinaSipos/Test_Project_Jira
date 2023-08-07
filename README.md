@@ -10,12 +10,12 @@ The plan identifies the items to be tested, the features to be tested, the types
 <ul>
 <li>Tests in scope:</li>
 <li>Tests not in scope:</li>
-</ul><br>
+</ul>
 <B>1.1.5 Risks detected:</B>
 <ul>
   <li>Project risks:</li>
   <li>Product risks:</li>
-</ul><BR>
+</ul>
 <B>1.1.6 Evaluating entry criteria</B>
 <br>
 <h2><B>1.2 Test Monitoring and Control</B></h2>
