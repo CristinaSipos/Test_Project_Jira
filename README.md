@@ -23,7 +23,7 @@ The plan identifies the items to be tested, the features to be tested, the types
   <li>98% of test cases must be executed and passed</li>
   <li>98% of Medium severity defects have been closed</li>
 </ul>
-<B>1.1.4 Test scope:</B><br>
+<B>1.1.4 Test scope</B><br>
 <ul>
 <li>Tests in scope:</li>
   <ul>
