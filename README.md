@@ -26,6 +26,15 @@ The plan identifies the items to be tested, the features to be tested, the types
 <B>1.1.4 Test scope:</B><br>
 <ul>
 <li>Tests in scope:</li>
+  <ul>
+    <li>Admin Module</li>
+    <li>PIM Module</li>
+    <li>Leave Module</li>
+    <li>Time Module</li>
+    <li>Recruitment Module</li>
+    <li>Performance Module</li>
+  </ul>
+</li>
 <li>Tests not in scope:
   <ul>
     <li>Non-functional testing like stress, and performance is beyond the scope of this project</li>
