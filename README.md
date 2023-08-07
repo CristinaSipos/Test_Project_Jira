@@ -56,7 +56,6 @@ I also use our expertise in creating test cases by applying the below test techn
  <li>Test cases are executed on the created test Cycle summary:</li>
  <li>Bugs have been created based on the failed tests. The complete bug reports can be found here:</li>
  </ul>></p>
- 
 <p>  
 <b><h2>1.7 Test Completion</h2></b>
 <ul>
