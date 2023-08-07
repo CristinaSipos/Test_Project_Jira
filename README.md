@@ -15,8 +15,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 <ul>
   <li>Project risks:</li>
   <li>Product risks:</li>
-</ul>
-<br>
+</ul><BR>
 <B>1.1.6 Evaluating entry criteria</B>
 <br>
 <h2><B>1.2 Test Monitoring and Control</B></h2>
