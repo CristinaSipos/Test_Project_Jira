@@ -23,6 +23,7 @@ The plan identifies the items to be tested, the features to be tested, the types
   <li>98% of test cases must be executed and passed</li>
   <li>98% of Medium severity defects have been closed</li>
 </ul>
+
 <B>1.1.4 Test scope</B><br>
 <ul>
 <li>Tests in scope:</li>
@@ -42,13 +43,16 @@ The plan identifies the items to be tested, the features to be tested, the types
     <li>Automation testing is beyond scope</li>
 </ul>
 </li>
+  
 <B>1.1.5 Risks detected:</B>
 <ul>
   <li>Project risks:</li>
   <li>Product risks:</li>
 </ul>
+
 <B>1.1.6 Evaluating entry criteria</B>
 <br>
+
 <h2><B>1.2 Test Monitoring and Control</B></h2>
 
 <b><H2>1.3 Test Analysis</H2></b>
