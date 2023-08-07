@@ -26,8 +26,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 <B>1.1.4 Test scope:</B><br>
 <ul>
 <li>Tests in scope:</li>
-<li>Tests not in scope:</li>
+<li>Tests not in scope:
+  <ul>
+    <li>Non-functional testing like stress, and performance is beyond the scope of this project</li>
+    <li>No QA support for mobile application developed. Only web application will be tested</li>
+    <li>Automation testing is beyond scope</li>
 </ul>
+</li>
 <B>1.1.5 Risks detected:</B>
 <ul>
   <li>Project risks:</li>
