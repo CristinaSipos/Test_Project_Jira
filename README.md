@@ -52,5 +52,5 @@ I also use our expertise in creating test cases by applying the below test techn
 
 
 </p>
-[Bug-word.docx](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12281960/Bug-word.docx)
+[Bug-word. docx](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12281960/Bug-word.docx)
 [Test plan](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12281974/Test.plan.docx.pdf)
