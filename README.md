@@ -22,7 +22,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h2><B>1.2 Test Monitoring and Control</B></h2>
 
 <b><H2>1.3 Test Analysis</H2></b>
-<HR></HR>
+
 <b><h2>1.4 Test Design</h2></b>
 
 <p>Functional test cases were created in Zephyr Squad. For the test case creation process, I used the following test design techniques:
