@@ -72,7 +72,9 @@ I also use our expertise in creating test cases by applying the below test techn
 <ul>
   <li>Error guessing</li>
   <li>Exploratory testing</li></ul>
-  The test cases with steps can be viewed [here](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12289980/Test.case.docx)
+  The test cases with steps can be viewed <a href="https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12289980/Test.case.docx">here</a>
+
+
   
 
  </p>
