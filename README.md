@@ -52,6 +52,14 @@ The plan identifies the items to be tested, the features to be tested, the types
 <B>1.1.5 Risks detected:</B>
 <ul>
   <li>Project risks:</li>
+     <ul>
+       <li>Testing schedule is tight</li>
+       <li>Not enough resources</li>
+       <li>Defects are found at a late stage of the cycle</li>
+       <li>Lack of experience of the QA team</li>
+       <li>Delay in delivery of test cases</li>
+       <li>Changes to the original requirements or designs</li>
+     </ul>
   <li>Product risks:</li>
 </ul>
 
