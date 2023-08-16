@@ -73,7 +73,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <b><H2>1.3 Test Analysis</H2></b>
 <p>During this phase the testing team will analyze the requirements and will create the test conditions that will serve as a guide for the functionalities to be tested.
-The requirements analysis results will be documented here.</p>
+The requirements analysis results will be documented <a href="https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12362691/Informal.review.docx">here</a>.
+</p>
 
 <b><h2>1.4 Test Design</h2></b>
 
