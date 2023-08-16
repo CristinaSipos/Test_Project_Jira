@@ -6,6 +6,10 @@
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.<BR>
   
 <B>1.1.1 Roles assigned to the project and persons allocated</B><br>
+<ul>
+  <li>Project Manager: Radulescu Gabriela</li>
+  <li>Software tester: Sipos Cristina</li> 
+</ul>
 <B>1.1.2 Entry criteria defined</B><br>
 <ul>
   <li>Complete or partially testable code is available</li>
