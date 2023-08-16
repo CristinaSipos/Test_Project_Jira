@@ -60,7 +60,7 @@ The plan identifies the items to be tested, the features to be tested, the types
        <li>Delay in delivery of test cases</li>
        <li>Changes to the original requirements or designs</li>
      </ul>
-  <li>Product risks:</li>
+  <li>Product risks: The application is not user-friendly.</li>
 </ul>
 
 <B>1.1.6 Evaluating entry criteria</B>
