@@ -104,7 +104,7 @@ I also use our expertise in creating test cases by applying the below test techn
  <b><h2>1.6 Test Execution</h2></b>
  <ul>
  <li>Test cases are executed on the created test Cycle summary:</li>
- <li>Bugs have been created based on the failed tests. The complete bug reports can be found <a href="https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12362383/Bug-word.docx">here</a>
+ <li>Bugs have been created based on the failed tests. The complete bug reports can be found <a href="https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12362383/Bug-word.docx">here</a>.
 </li>
  </ul></p>
 <p>  
