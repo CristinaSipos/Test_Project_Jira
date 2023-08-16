@@ -8,7 +8,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 <B>1.1.1 Roles assigned to the project and persons allocated</B><br>
 <ul>
   <li>Project Manager: Radulescu Gabriela</li>
-  <li>Software tester: Sipos Cristina</li> 
+  <li>Software Tester: Sipos Cristina</li> 
 </ul>
 <B>1.1.2 Entry criteria defined</B><br>
 <ul>
