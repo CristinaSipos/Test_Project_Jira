@@ -94,7 +94,7 @@ I also use our expertise in creating test cases by applying the below test techn
 
  <p>The following elements are needed before the test execution phase begins:
  <ul>
- <li>Network setup</li>
+ <li>Network setup</li> 
  <li>Setup of different browsers</li>
  <li>Application testing environment: OrangeHRM</li>
  <li>User and password</li>
@@ -104,7 +104,7 @@ I also use our expertise in creating test cases by applying the below test techn
  <p>
  <b><h2>1.6 Test Execution</h2></b>
  <ul>
- <li>Test cases are executed on the created test Cycle summary:</li>
+ <li>Test cases are executed on the created test <a href="https://drive.google.com/drive/folders/1aZjPG9nPN87iyWs1EQZF6ReuiVAlj12g"> Cycle summary</a>. </li>
  <li>Bugs have been created based on the failed tests. The complete bug reports can be found <a href="https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12362383/Bug-word.docx">here</a>.
 </li>
  </ul></p>
