@@ -5,11 +5,12 @@
 <p>The <a href="https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12314915/Test.plan.docx.pdf">Test Plan</a> is designed to describe all details of testing from the OrangeHRM application.
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.<BR>
   
-<B>1.1.1 Roles assigned to the project and persons allocated</B><br>
+1.1.1 Roles assigned to the project and persons allocated<br>
 <ul>
   <li>Project Manager: Radulescu Gabriela</li>
   <li>Software Tester: Sipos Cristina</li> 
 </ul>
+
 <B>1.1.2 Entry criteria defined</B><br>
 <ul>
   <li>Complete or partially testable code is available</li>
