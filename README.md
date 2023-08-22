@@ -73,7 +73,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 ![Test monitoring and control](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/assets/116946193/e3f81d4d-93dd-4db8-b7d8-cbb42da9e52f)
 
 <h2>1.3 Test Analysis</h2>
-<p>During this phase the testing team analysed the requirements and created the test conditions that served as a guide for the functionalities to be tested.
+<p>During this phase the testing team analyzed the requirements and created the test conditions that served as a guide for the functionalities to be tested.
 The requirements analysis results were documented <a href="https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12362691/Informal.review.docx">here</a>.
 </p>
 
