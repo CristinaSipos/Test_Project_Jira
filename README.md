@@ -119,6 +119,7 @@ I also used  expertise in creating test cases by applying the below test techniq
 <li>Exit criteria were evaluated and passed.</li>
 <li>The traceability matrix was generated and can be found here:</li>
 <li>Below is displayed the test execution chart:
+  
  ![Test Execution](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/assets/116946193/ac2ed72d-b705-4dde-af68-91884583941b)
  
 </li>  
