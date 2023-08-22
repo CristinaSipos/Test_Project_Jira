@@ -116,9 +116,14 @@ I also used  expertise in creating test cases by applying the below test techniq
 <p>  
 <h2>1.7 Test Completion</h2>
 <ul>
-<li>Exit criteria were evaluated and passed</li>
+<li>Exit criteria were evaluated and passed.</li>
 <li>The traceability matrix was generated and can be found here:</li>
-<li>Test execution chart was generated, the final report shows.... </li>
+<li>Below is displayed the test execution chart:
+ ![Test Execution](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/assets/116946193/ac2ed72d-b705-4dde-af68-91884583941b)
+ 
+</li>  
+<li>The purpose of testing the Orange HRM application was for training and for developing my testing skills. My testing is reasonably complete for the purposes of fulfilling my mission. My primary mission was to cover testing of the five modules of the application: Admin, PIM, Leave, Time, and Recruitment. The testing process was a highly exploratory process because I was in the process of learning the product as I went.</li>  
+
 </ul>
 </p>
 
