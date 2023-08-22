@@ -71,6 +71,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h2>1.2 Test Monitoring and Control</h2>
 <p>Below is the progress of the project displaying daily test execution progress: passed, failed, and blocked tests.
 </p>
+
 ![Test monitoring and control](https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/assets/116946193/e3f81d4d-93dd-4db8-b7d8-cbb42da9e52f)
 
 <h2>1.3 Test Analysis</h2>
