@@ -113,18 +113,14 @@ I also used  expertise in creating test cases by applying the below test techniq
  <li>Bugs have been created based on the failed tests. The complete bug reports can be found <a href="https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/files/12362383/Bug-word.docx">here</a>.
 </li>
  </ul></p>
-<p>  
+ 
 <h2>1.7 Test Completion</h2>
 <ul>
 <li>Exit criteria were evaluated and passed.</li>
 <li>The traceability matrix was generated and can be found here:</li>
 <li>Below is displayed the test execution chart: <br>
-     <img align="left" width="400" height="500" src="https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/assets/116946193/f5b0f96e-cf7f-4034-9b0f-c2967d549c06">
+     <img align="center" width="500" height="600" src="https://github.com/CristinaSipos/Testing-Orange-HRM-Application-using-Jira/assets/116946193/f5b0f96e-cf7f-4034-9b0f-c2967d549c06">
 </li>  
-<li> 
-</ul>
-</p>
-<br>
+</ul> <br>
 The purpose of testing the Orange HRM application was for training and for developing my testing skills. My testing is reasonably complete for the purposes of fulfilling my mission. My primary mission was to cover testing of the five modules of the application: Admin, PIM, Leave, Time, and Recruitment. The testing process was a highly exploratory process because I was in the process of learning the product as I went.</li>  
-
 
